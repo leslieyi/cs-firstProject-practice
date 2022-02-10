@@ -1,0 +1,13 @@
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/bin/Debug/netcoreapp3.1/FirstProject.deps.json
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/bin/Debug/netcoreapp3.1/FirstProject.runtimeconfig.json
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/bin/Debug/netcoreapp3.1/FirstProject.runtimeconfig.dev.json
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/bin/Debug/netcoreapp3.1/FirstProject.dll
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/bin/Debug/netcoreapp3.1/FirstProject.pdb
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/obj/Debug/netcoreapp3.1/FirstProject.csproj.AssemblyReference.cache
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/obj/Debug/netcoreapp3.1/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/obj/Debug/netcoreapp3.1/FirstProject.AssemblyInfoInputs.cache
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/obj/Debug/netcoreapp3.1/FirstProject.AssemblyInfo.cs
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/obj/Debug/netcoreapp3.1/FirstProject.csproj.CoreCompileInputs.cache
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/obj/Debug/netcoreapp3.1/FirstProject.dll
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/obj/Debug/netcoreapp3.1/FirstProject.pdb
+/Users/leslie.yi/Desktop/firstProject/FirstProject/FirstProject/obj/Debug/netcoreapp3.1/FirstProject.genruntimeconfig.cache
